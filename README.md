@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mengxingguo47
+- 👀 I’m interested in Java enthusiast with a focus on Android development.
+- 🌱 I’m currently learning Striving to create intuitive, user-friendly mobile apps.
